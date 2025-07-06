@@ -1,0 +1,37 @@
+# Ignore Terraform state files
+*.tfstate
+*.tfstate.backup
+
+# Ignore Terraform plan files
+*.tfplan
+
+# Ignore Terraform crash logs
+crash.log
+
+# Ignore .terraform directory
+.terraform/
+
+# Ignore backend configuration files
+*.backend
+
+# Ignore sensitive files
+*.key
+*.pem
+*.env
+
+# Ignore log files
+*.log
+
+# Ignore Python cache files (if using Python scripts)
+__pycache__/
+*.pyc
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore system files
+.DS_Store
+Thumbs.db
