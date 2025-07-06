@@ -15,6 +15,12 @@
 
 ---
 
+## 📸 Screenshot
+
+![EC2 Dashboard](./Asset/aws.png)  
+![VS Code](./Asset/code.png)
+
+
 ## 🗂️ Project Structure
 
 ```bash
@@ -38,6 +44,4 @@ terraform-day5-modularized/
  AWS S3        >   Terraform remote state storage           
  AWS DynamoDB  >   State locking to prevent concurrent runs 
 
-## Screenshot
-![EC2 Dashboard](./Asset/aws.png)
-![vs-code ](./Asset/code.png)
+ 
