@@ -1,4 +1,4 @@
- # 🧱 Modular EC2 Web App Deployment with Terraform (AWS Free Tier)
+  # 🧱 Modular EC2 Web App Deployment with Terraform (AWS Free Tier)
 
 > 🚀 A production-style, modular Infrastructure as Code (IaC) project built with **Terraform** and deployed on the **AWS Free Tier**. It features reusable modules, remote backend storage, secure state locking, and clustered EC2 web servers running **NGINX** automatically on boot.
 
@@ -42,7 +42,7 @@
 | ![EC2 Dashboard](./Asset/aws.png) | ![VS Code](./Asset/code.png) |
 ## 📸 Day 6 Screenshots
  
-| ![vs-Code](./Asset/day6.png) |
+![vs-Code](./Asset/day6.png) 
 
 
 ---
