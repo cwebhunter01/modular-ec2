@@ -40,9 +40,10 @@
 | AWS EC2 Dashboard | VS Code Project Layout |
 |-------------------|------------------------|
 | ![EC2 Dashboard](./Asset/aws.png) | ![VS Code](./Asset/code.png) |
-## 📸 Day 6 Screenshots
- 
-![vs-Code](./Asset/day6.png) 
+ ## 📸 Day 6 Screenshot
+
+![Day 6 VS Code](./Asset/day6.png)
+
 
 
 ---
